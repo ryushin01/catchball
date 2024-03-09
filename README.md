@@ -9,6 +9,7 @@
 
 2. 윌슨 A2000 1787SC
 <img width="714" alt="image" src="https://github.com/ryushin01/ro/assets/141554987/d89f8a4d-0816-4e3d-8a3c-50b9050f3a25">
+
 - 정보
     - 내야수 글러브
     - 11.75인치 크기
@@ -17,6 +18,7 @@
 
 3. 윌슨 A2000 DP15
 <img width="682" alt="image" src="https://github.com/ryushin01/ro/assets/141554987/f5a0b8ac-4252-4d14-9cfb-50ab5bebcf11">
+
 - 정보
     - 내야수 글러브
     - 11.5인치 크기
